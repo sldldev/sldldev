@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sldldev
 - 👀 I’m interested in becoming the developer / data scientist
 - 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on pyhthon progects.
+- 💞️ I’m looking to collaborate on pyhthon projects.
 - 📫 How to reach me sldlgit@uranussup.info
 
 <!---
